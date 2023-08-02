@@ -87,7 +87,7 @@ class Rock_Paper_Scissor{
             System.out.println("you won the game");
         }
         else{
-            System.out.println("Sorry");1
+            System.out.println("Sorry");
             System.out.println("you lost the game");
         }
     }
